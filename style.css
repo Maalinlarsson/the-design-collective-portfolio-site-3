@@ -160,10 +160,11 @@ footer a {
 }
 
 /*---------------- Icons ----------------*/
-.arrow {
-    max-width: 5%;
+.icon-section img {
+    max-width: 3rem;
+    opacity: 0.8;
+    margin: 1rem 0;
 }
-
 /*---------------- Images and background images styles ----------------*/
 .bg-image {
     background-color: rgb(240,240,240);
