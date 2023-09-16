@@ -169,7 +169,7 @@ header: {
     padding: 2% 5%; 
 }
 
-footer a {
+footer a:hover {
     color: #d3b4a2;
 }
 
